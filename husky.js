@@ -7,4 +7,4 @@ async function buscarHusky() {
     
 }
 
-buscarHusky();
+buscarHusky();                                      
