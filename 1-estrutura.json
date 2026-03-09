@@ -1,0 +1,47 @@
+[
+    {
+    "cachorro": {
+        "nome": "luck",
+        "idade": 6,
+        "raca": "Maltes",
+        "vacinado": true,
+        "peso": 25,
+        "brinquedos": ["bola", "osso" , "frisbee"],
+        "dono": {
+            "nome": "Felipe",
+            "telefone": "11-960195971"
+        }
+    }
+}
+,
+{
+    "filme": {
+        "titulo": "Panico 7",
+        "ano": 2026,
+        "diretor": "Cocker",
+        "genero": "animação"
+    }
+}
+,
+{
+    "aluno": {
+        "nome": "Felipe",
+        "idade": 17,
+        "notas": 10,
+        "aprovado": true
+    }
+}
+,
+{
+    "produto": {
+        "nome": "Iphone 17",
+        "preco": 7000,
+        "quantidade": 1,
+        "disponível": true
+    }
+}
+
+
+
+]
+

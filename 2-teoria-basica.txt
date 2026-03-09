@@ -1,0 +1,34 @@
+# HTTP e Status Codes
+
+Cliente - Servidor
+Comunicação usando **HTTP**
+
+
+# MÉTODOS HTTP
+GET - Buscar
+POST - Criar
+PUT - Atualizar tudo
+PATCH - Atualizar parte
+DELETE - Remover
+
+
+# Status Codes
+
+2xx -Sucesso
+3xx - Redirecionamento
+4xx - Erro do Cliente
+5xx - Erro do Servidor
+
+# Principais Status
+200 - Ok
+201 - Criado
+400 - Requisição invalida
+401 - Não autorizado
+403 - Proibido
+404 - Não encontrado
+
+# Erros do Servidor
+500 - Erro interno
+503 - servico indidpsonivel
+
+
