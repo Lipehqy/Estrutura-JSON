@@ -1,5 +1,5 @@
 [
-    {
+{
     "cachorro": {
         "nome": "luck",
         "idade": 6,
@@ -40,8 +40,4 @@
         "disponível": true
     }
 }
-
-
-
 ]
-
